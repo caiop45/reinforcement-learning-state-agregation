@@ -1,4 +1,4 @@
-# Implementation of the paper "A Systematic Evaluation of Generative Models on Tabular Transportation Data"
+# Implementation of the paper "A Systematic Evaluation of Generative Models on Tabular Transportation Data"( https://arxiv.org/abs/2107.11053 )
 
 This directory contains a Python implementation of value-iteration and state-aggregation experiments
 for a Gridworld environment, inspired by the setups used in the paper
