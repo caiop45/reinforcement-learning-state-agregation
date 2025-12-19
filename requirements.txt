@@ -1,0 +1,5 @@
+gymnasium==1.2.3
+numpy==2.3.5
+Pillow==10.2.0
+
+
